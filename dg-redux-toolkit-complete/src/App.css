@@ -64,7 +64,8 @@ form {
   margin: 0 0.25em 0 0;
   background: transparent;
   border: none;
-  color: whitesmoke;
+  /* color: whitesmoke; */
+  color: darkslategray;
   font-size: 1rem;
 }
 
